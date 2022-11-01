@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on bigdata
 - 📫 How to reach me XXX
 
-<!---
 Although the mountains and rivers are unharmed, my generation should be self-reliant
---->
+
